@@ -10,7 +10,7 @@ seo:
 
 # Software Engineering
 
-Welcome to the course website of CS6.401 Software Engineering. The details of syllabus, course plan, examinations can be found in the home page. Further details regarding the course can be found below:
+Welcome to the course website of CS6.401 Software Engineering Spring 2024. The details of syllabus, course plan, examinations can be found in the home page. Further details regarding the course can be found below:
 
 - a [course calendar with materials](calendar.md),
 - a [staff](staff.md) page,

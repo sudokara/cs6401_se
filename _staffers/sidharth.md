@@ -1,7 +1,7 @@
 ---
-name: Shlok Pandey
+name: Siddharth Mavani
 role: Teaching Assistant
-email: shlok.pandey@research.iiit.ac.in
+email: siddharth.mavani@students.iiit.ac.in
 website:
 photo: shlok.png
 ---
