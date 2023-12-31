@@ -3,7 +3,7 @@ name: Siddharth Mavani
 role: Teaching Assistant
 email: siddharth.mavani@students.iiit.ac.in
 website:
-photo: shlok.png
+photo: dummy.png
 ---
 
 Developing software is fun!
