@@ -19,13 +19,13 @@ This course requires student to submit assignments, participate in in-class acti
 
 ## Use of AI tools
 
-Students are free to use different AI tools like ChatGPT, Co-pilot, etc. for the course assignments/projects. However, please do mention what tools and how they have been used in the submission report. Remember the different demos given in the class on how sometimes these tools can mislead or provide wrong solutions. Its important to know the concept before using the tools. Tools are at the end-of-the day enablers. Today it will be ChatGPT tomorrow it will be something else but the concepts needs to be clear to leverage the different tools. Bottomline, feel free to use different tools but use them wisely!
+Students are free to use different AI tools like ChatGPT, Co-pilot, etc. for the course assignments/projects. In fact every project mostly will require the use of LLMs. However, please do mention what tools and how they have been used in the submission report. Remember the different demos given in the class on how sometimes these tools can mislead or provide wrong solutions. Its important to know the concept before using the tools. Tools are at the end-of-the day enablers. Today it will be ChatGPT tomorrow it will be something else but the concepts needs to be clear to leverage the different tools. Bottomline, feel free to use different tools but use them wisely!
 
 ## Extra Days and Soft Deadlines
 
   1. Each student will have 5 extra days (in total) which they can use at their discretion throughout the course. Extra days will allow the student to submit assignments post the deadline without incurring any penalty.
 
-  2. Every project will have a soft deadline followed by a hard deadline after 7 days. If the student submits an assignment/project after the soft deadline, he/she will be penalized for every additional day until the hard deadline (if they have exhausted their extra days quota). For example, lets assume that the soft deadline is Feb 3 2023. This implies that the hard deadline will be Feb 10, 2023. The student in this case will be allowed to submit until Feb 10 2023. Assuming that the student has his/her full quota of extra days, they can delay submissions until Feb 8 2023 after which the submission will be penalized for each additional day.
+  2. Every project will have a soft deadline followed by a hard deadline after 7 days. If the student submits an assignment/project after the soft deadline, he/she will be penalized for every additional day until the hard deadline (if they have exhausted their extra days quota). For example, lets assume that the soft deadline is Feb 3 2024. This implies that the hard deadline will be Feb 10, 2024. The student in this case will be allowed to submit until Feb 10 2024. Assuming that the student has his/her full quota of extra days, they can delay submissions until Feb 8 2024 after which the submission will be penalized for each additional day.
 
   3. No submissions will be entertained post the hard deadline.
 
@@ -42,8 +42,8 @@ Students are free to use different AI tools like ChatGPT, Co-pilot, etc. for the
 | ----------- | ----------- |
 | Final Exam      | 20%      |
 | Mid-term Quiz   | 10%       |
-| Unit Assignments  | 15%       |
+| Assignments     | 15%       |
 | 3 Unit Projects (3*15) | 45%       |
 | Other In-class activities  | 10%       |
 
-*Note:* The course instructor reserves the right to make minor modifications to the above distribution based on the progress of the courses
+*Note:* The course instructor reserves the right to make minor modifications to the above distribution based on the progress of the course.
