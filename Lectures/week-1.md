@@ -6,9 +6,9 @@ parent: Lectures
 nav_order: 1
 ---
 
-## Course Overview and Introduction to modeling
+## Course Overview
 
-Course Overview Slides - [Download](https://karthikv1392.github.io/cs6401_se/slides/L01_Course_Overview.pdf)
+Course Overview Slides - will be posted soon
 
 ## Additional Reading materials
 
