@@ -1,9 +1,9 @@
 ---
-name: Mayush
+name: Mayush Kumar
 role: Teaching Assistant
 email: mayush.kumar@students.iiit.ac.in
 website:
-photo: dummy.png
+photo: mayush.png
 ---
 
 Software Engineering TA
