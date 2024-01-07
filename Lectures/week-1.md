@@ -10,6 +10,10 @@ nav_order: 1
 
 Course Overview Slides - [Download](https://karthikv1392.github.io/cs6401_se/slides/L01_Course_Overview.pdf)
 
+## Introduction to Modeling
+
+Overview on Modeling, Model driven engineering - [Download](https://karthikv1392.github.io/cs6401_se/slides/L02_Intro_Modeling.pdf)
+
 ## Additional Reading materials
 
   1. About Boeing  - [https://spectrum.ieee.org/how-the-boeing-737-max-disaster-looks-to-a-software-developer](https://spectrum.ieee.org/how-the-boeing-737-max-disaster-looks-to-a-software-developer)
