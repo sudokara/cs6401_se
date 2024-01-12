@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Week 2 - UML Modeling
-permalink: /lectures/week-1
+permalink: /lectures/week-2
 parent: Lectures
 nav_order: 1
 ---
