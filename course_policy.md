@@ -23,7 +23,7 @@ Students are free to use different AI tools like ChatGPT, Co-pilot, etc. for the
 
 ## Extra Days and Soft Deadlines
 
-  1. Each student will have 5 extra days (in total) which they can use at their discretion throughout the course. Extra days will allow the student to submit assignments post the deadline without incurring any penalty.
+  1. Each team will have 5 extra days (in total) which they can use at their discretion throughout the course. Extra days will allow the student to submit projects post the deadline without incurring any penalty. Please note extra days can only be used for projects.
 
   2. Every project will have a soft deadline followed by a hard deadline after 7 days. If the student submits an assignment/project after the soft deadline, he/she will be penalized for every additional day until the hard deadline (if they have exhausted their extra days quota). For example, lets assume that the soft deadline is Feb 3 2024. This implies that the hard deadline will be Feb 10, 2024. The student in this case will be allowed to submit until Feb 10 2024. Assuming that the student has his/her full quota of extra days, they can delay submissions until Feb 8 2024 after which the submission will be penalized for each additional day.
 
