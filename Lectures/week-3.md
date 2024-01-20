@@ -3,12 +3,14 @@ layout: page
 title: Week 3 - Refactoring
 permalink: /lectures/week-3
 parent: Lectures
-nav_order: 1
+nav_order: 3
 ---
 
 ## Technical Debt and Refactoring
 
 Introduction to Technical Debt and Refactoring - [Download](https://karthikv1392.github.io/cs6401_se/slides/L05_Intro_to_Refactoring.pdf)
+
+Design Smells and Refactoring - [Download](https://karthikv1392.github.io/cs6401_se/slides/L06_Design_Smells.pdf)
 
 
 ## Additional Reading materials
@@ -18,6 +20,13 @@ Introduction to Technical Debt and Refactoring - [Download](https://karthikv1392
 3. [Managing Technical Debt in Software Engineering - Report of Dagstuhl Seminar](https://drops.dagstuhl.de/opus/volltexte/2016/6693/pdf/dagrep_v006_i004_p110_s16162.pdf)
 4. [A Survey on Software Smells by Tushar Sharma and Diomidis Spinellis ](https://www.sciencedirect.com/science/article/abs/pii/S0164121217303114)
 5. [Collection of articles on refactoring by Martin Fowler](https://martinfowler.com/tags/refactoring.html)
+
+
+## Additional Resources
+
+1. [A catalog of smells and refactoring](https://refactoring.guru/)
+2. [A book on Refactoring for Software Design Smells: Managing Technical Debt](https://www.amazon.in/Refactoring-Software-Design-Smells-Technical/dp/0128013974)
+
 
 ## Materials to Listen From
 
